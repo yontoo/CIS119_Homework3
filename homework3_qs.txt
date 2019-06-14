@@ -1,0 +1,35 @@
+Ch 3.
+
+1. <?php>, short form is just <?>
+2. // and /**/
+3. ; must be placed at the end of every statement.
+4. $
+5. Array, String or numeric.
+6. One is assignment and the other is testing for equivalency.
+7. $current-user is using the subtraction operator, whereas $current_user has no problems.
+8. Yes
+9. No
+10. PHP automatically converts variables to the correct type based on context.
+11. ++ before a variable increments before a test is done, but ++ after increments after the test.
+12. Yes, but "and" has low precedence.
+13. Use <<< and enclose the contents with _END.
+14. No
+15. \"
+16. Both output to the browser, but print can be used in complex expressions.
+17. Functions are blocks of code that perform a specific task and can be used quicker and less messy than just pasting it around your program.
+18. Use the global keyword.
+19. Have function return a value or modify global variable.
+20. A string.
+
+Ch 4.
+
+1. 1 and NULL
+2. Literals and variables.
+3. The amount of operands they take.
+4. Use parenthesis
+5. Direction code is processed.
+6. To test if two strings are different.
+7. if, switch, ?
+8. continue
+9. It allows you to assign variables, test while iterating and modify variables.
+10. They evaluate to true if the value is nonzero or a string that isn't empty.
