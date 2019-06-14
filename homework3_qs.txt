@@ -1,3 +1,6 @@
+CIS 119
+Tray Harris
+
 Ch 3.
 
 1. <?php>, short form is just <?>
